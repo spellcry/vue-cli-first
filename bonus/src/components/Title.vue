@@ -1,5 +1,5 @@
 <template>
-    <h1>La mia prima app con Vue CLI!</h1>
+    <h1 class="title">La mia prima app con Vue CLI!</h1>
 </template>
 
 <script>
@@ -12,3 +12,9 @@
     }
 
 </script>
+
+<style lang="scss">
+    .title {
+        font-size: 3rem;
+    }
+</style>

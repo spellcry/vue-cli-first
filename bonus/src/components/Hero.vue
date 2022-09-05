@@ -2,7 +2,7 @@
     <div class="hero">
         <div class="container">
             <img alt="Vue logo" src="../assets/logo.png">
-            <Title msg="La mia prima app con Vue CLI"></Title>
+            <Title msg="La mia prima app con Vue CLI!"></Title>
         </div>
     </div>
 </template>

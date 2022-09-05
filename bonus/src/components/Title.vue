@@ -1,5 +1,5 @@
 <template>
-    <h1 class="title">La mia prima app con Vue CLI!</h1>
+    <h1 class="title">{{ msg }}</h1>
 </template>
 
 <script>
